@@ -1,0 +1,6 @@
+<style type="text/css">
+        h1 {color: blue}
+        background-color: lightgray;
+        input {width: 200px;}
+        input.uppercase {text-transform: capitalize;}
+</style>
