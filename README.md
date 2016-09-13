@@ -16,4 +16,4 @@ Ali Alqahtani
 program status: works as instructed
 
 to test the program: 
-open fr.html through the http://www.csun.edu/~asa18427/cgi-bin/ and type anything in the box and click submit and the cgi program will excute and display a new html page.
+open fr.html through the http://www.csun.edu/~asa18427/cgi-bin/ and type anything in the box and click submit and the cgi program will excute and display a new html page displaying the typed string.
